@@ -7,7 +7,7 @@ Wallpaper is included in directory!
 
 Screenshot:
 
-[Modra-Screenshot](https://user-images.githubusercontent.com/88061514/209747818-dc669a3f-0cce-4673-a81c-47c49e12ba78.png)
+![Modra-Screenshot](https://user-images.githubusercontent.com/88061514/209747893-d250f7aa-e8a7-437f-bd95-f00b0f264dca.png)
 
 # Installation
  Extract Tar Archive File On Directory to /usr/share/themes (as root)
