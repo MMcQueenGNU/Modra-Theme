@@ -3,7 +3,7 @@ A shell theme for GNOME based desktop environments
 
 Requires User-Themes extension:https://extensions.gnome.org/extension/19/user-themes/
 
-Wallpaper is included in directory!
+Wallpaper is included in directory
 
 Screenshot:
 
